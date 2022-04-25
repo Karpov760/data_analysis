@@ -13,3 +13,7 @@
 
 # Лабраторная 5:
 ![image](https://user-images.githubusercontent.com/77189625/165059007-80ce3bba-e059-4c75-b098-bd00251fd66e.png)
+
+
+Оценки за работы
+![image](https://user-images.githubusercontent.com/77189625/165080297-3d4c0004-40ae-4343-8427-cd33d1a45f45.png)
