@@ -25,5 +25,5 @@
 ![image](https://user-images.githubusercontent.com/77189625/165300317-b13d37a5-da4a-4e64-918c-5bc76497b37d.png)
 
 
-Оценки за работы
+Оценки за работы (я чуть-чуть хвастаюсь)
 ![image](https://user-images.githubusercontent.com/77189625/165080297-3d4c0004-40ae-4343-8427-cd33d1a45f45.png)
