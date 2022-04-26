@@ -22,6 +22,7 @@
 ![image](https://user-images.githubusercontent.com/77189625/165300162-70bfb1a7-7939-4fb2-becf-c1c999b64aaa.png)
 
 # Лаборатонрая 10
+![image](https://user-images.githubusercontent.com/77189625/165300317-b13d37a5-da4a-4e64-918c-5bc76497b37d.png)
 
 
 Оценки за работы
