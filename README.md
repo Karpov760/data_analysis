@@ -18,10 +18,10 @@
 использование api и beatiful soup для парсинга
 ![image](https://user-images.githubusercontent.com/77189625/165299790-99f9ddb7-8d6e-4218-8619-67c00834d1e0.png)
 
-# Лаборатонрая 9
+# Лабораторная 9
 ![image](https://user-images.githubusercontent.com/77189625/165300162-70bfb1a7-7939-4fb2-becf-c1c999b64aaa.png)
 
-# Лаборатонрая 10
+# Лабораторная 10
 ![image](https://user-images.githubusercontent.com/77189625/165300317-b13d37a5-da4a-4e64-918c-5bc76497b37d.png)
 
 
